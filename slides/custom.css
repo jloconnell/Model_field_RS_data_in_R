@@ -1,0 +1,39 @@
+section .reveal .state-background {
+    background: white;}
+.section .reveal h1,
+.section .reveal p {
+    color: black;
+    position: relative;
+    top: 4%;}
+
+.reveal .state-background {
+  background: white;
+} 
+
+.reveal {
+  color: black;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+  word-wrap: normal;
+   -moz-hyphens: none;
+}
+
+.reveal pre{
+  width: 100%;
+  font-size: 0.51em;
+}
+
+.reveal pre code {
+  font-size: 1.2em;
+}
+
+div.bigq {
+ font-size: 200%;
+ line-height: normal;
+}
+
+div.medq {
+ font-size: 150%;
+ line-height: normal;
+}
