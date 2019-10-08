@@ -8,13 +8,20 @@ Jessica L. O'Connell
 
 Download/Install materials from **https://github.com/jloconnell/Model_field_RS_data_in_R**
 
+Last Weeks coding assignment
+==============
+* The solution is on eLC
+* main skills: learn to struggle with a coding problem, learn how to look up new functions and use R help or cheatsheets
+* the real coding challenge is to take the solution and adapt it to your work
+* I'm happy to meet with any of you one on one to help with that when the time comes
+* some of you got stumped at loading data from a file and understanding how to use R scripts vs the command line
+
 
 Learning Objectives
 ==============
 * Learn how to create remote sensing models in R
    * Basic: a linear model
    * Advanced: Partial Least Squares Regression
-               Random Forests
 
 Modeling overview
 ========================================================
